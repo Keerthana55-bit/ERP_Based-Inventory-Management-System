@@ -2,7 +2,7 @@
 
 A comprehensive, enterprise-grade desktop application designed to streamline business operations for small to medium-sized enterprises. Built with Python and Tkinter, featuring a modern dark-themed interface that reduces eye strain during extended use.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png.png)
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ A comprehensive, enterprise-grade desktop application designed to streamline bus
 ### 📦 Core Modules
 
 #### 1. Employee Management
-![Employee Module](media/image2.png)
+![Employee Module](media/image2.png.png)
 
 - Add, update, delete, and search employees
 - Store comprehensive employee details (ID, name, email, gender, contact, DOB, DOJ, salary, address)
@@ -23,7 +23,7 @@ A comprehensive, enterprise-grade desktop application designed to streamline bus
 - Real-time data validation
 
 #### 2. Supplier Management
-![Supplier Module](media/image3.png)
+![Supplier Module](media/image3.png.png)
 
 - Manage supplier information with invoice tracking
 - Store supplier details (invoice number, name, contact, description)
@@ -31,7 +31,7 @@ A comprehensive, enterprise-grade desktop application designed to streamline bus
 - Complete CRUD operations
 
 #### 3. Category Management
-![Category Module](media/image5.png)
+![Category Module](media/image5.png.png)
 
 - Organize products into categories
 - Simple add and delete operations
@@ -39,7 +39,7 @@ A comprehensive, enterprise-grade desktop application designed to streamline bus
 - Used for product classification
 
 #### 4. Product Management
-![Product Module](media/image4.png)
+![Product Module](media/image4.png.png)
 
 - Complete product inventory control
 - Link products with categories and suppliers
@@ -48,7 +48,7 @@ A comprehensive, enterprise-grade desktop application designed to streamline bus
 - Stock status monitoring
 
 #### 5. 💳 Billing System
-![Billing Module](media/image7.png)
+![Billing Module](media/image7.png.png)
 
 - Interactive Point of Sale (POS) interface
 - Product catalog with search functionality
@@ -61,7 +61,7 @@ A comprehensive, enterprise-grade desktop application designed to streamline bus
 - Real-time inventory updates after sales
 
 #### 6. Sales Records
-![Sales Module](media/image6.png)
+![Sales Module](media/image6.png.png)
 
 - View all generated bills/invoices
 - Search invoices by number
