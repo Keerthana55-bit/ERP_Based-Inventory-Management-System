@@ -1,6 +1,6 @@
 # 🏢 Inventory Management System - Command Center
 
-A comprehensive, enterprise-grade desktop application designed to streamline business operations for small to medium-sized enterprises. Built with Python and Tkinter, featuring a modern dark-themed interface that reduces eye strain during extended use.
+An ERP-based desktop application built with Python and Tkinter that integrates employee management, inventory, sales, supplier, and billing modules into a unified system for efficient business operations.
 
 ![Dashboard](images/dashboard.png.png)
 
